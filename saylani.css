@@ -1,0 +1,31 @@
+form{
+    color: blueviolet
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 10px;
+    color: blueviolet;
+}
+
+table {
+    
+    background:blueviolet;
+    color: aliceblue;
+    width: auto; 
+    padding-left: 10px;
+
+  }
+  
+  table td {
+    line-height: 35px;
+  }
+
+img{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
